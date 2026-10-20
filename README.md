@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Vani Gupta
+# 💫 Hello, I'm Vani Gupta
 **A passionate CSE Student | Data Science Enthusiast | Aspiring Software Engineer from India**
 
 I'm interested in problem-solving, software development, and exploring how technology can solve real-world problems. 💻✨
